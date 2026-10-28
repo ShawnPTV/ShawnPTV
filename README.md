@@ -4,7 +4,7 @@
 
   - [osTicket: Ticket Lifecycle Example](https://github.com/ShawnPTV/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShawnPTV/azure-network-protocols)
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnPTV/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
@@ -15,4 +15,10 @@
 [twitter]: https://twitter.com/Lashawn
 [instagram]: https://www.instagram.com/Lashawn
 [linkedin]: https://linkedin.com/in/Lashawn
+
+
+
+
+ 
+
 
