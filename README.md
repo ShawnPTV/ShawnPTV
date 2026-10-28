@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ShawnPTV/ticket-lifecycle)
+  - [osTicket:ticket-lifestyle example](https://github.com/ShawnPTV/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShawnPTV/azure-network-protocols)
 
