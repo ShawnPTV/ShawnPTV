@@ -14,7 +14,7 @@
 
 [twitter]: https://twitter.com/Lashawn
 [instagram]: https://www.instagram.com/Lashawn
-[linkedin]: https://linkedin.com/in/lashawnperry
+[linkedin]: https://linkedin.com/in/lashawn-perry-8b9a53378
 
 
 
