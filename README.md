@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lashawn, an <a href="https://linkedin.com/in/Lashawn">IT Professional</a>☺</h1>
+<h1>Hi, I'm Lashawn, an <a href="https://linkedin.com/in/lashawn-perry-8b9a53378">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
